@@ -12,3 +12,5 @@ while True:
     else:
         print("Your guess too high! ")
 print("Your guess is correct")
+
+'''Copyright © 2022 SSahmed. All rights reserved'''
