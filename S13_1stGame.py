@@ -135,3 +135,6 @@ elif win == 5 and lose == 0 and tie == 0:
     print("\nCongratulations! You Win!")
 else:
     print("\nUnfortunately! You Loser!")
+
+    
+'''Copyright © 2022 SSahmed. All rights reserved'''
